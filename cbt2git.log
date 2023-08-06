@@ -1,0 +1,15 @@
+2023-08-06 07:40:39.880931 - Initialized conversion of CBT804
+2023-08-06 07:40:39.999242 - Received CBT.V505.FILE804.PDS from FILE804.XMI 
+2023-08-06 07:40:40.001768 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE804.PDS, moved to PDS/$$$#DATE
+2023-08-06 07:40:40.002827 - Found $$NOTE01.txt (text/plain) in CBT.V505.FILE804.PDS, moved to PDS/$$NOTE01
+2023-08-06 07:40:40.003814 - Found $$NOTE02.txt (text/plain) in CBT.V505.FILE804.PDS, moved to PDS/$$NOTE02
+2023-08-06 07:40:40.004908 - Found @FILE804.txt (text/plain) in CBT.V505.FILE804.PDS, moved to PDS/@FILE804
+2023-08-06 07:40:40.005841 - Found ASMINFO.txt (text/plain) in CBT.V505.FILE804.PDS, moved to PDS/ASMINFO
+2023-08-06 07:40:40.006804 - Found BR2JMP.txt (text/plain) in CBT.V505.FILE804.PDS, moved to PDS/BR2JMP
+2023-08-06 07:40:40.007715 - Found BR2JMPX.rexx (text/plain) in CBT.V505.FILE804.PDS, moved to PDS/BR2JMPX
+2023-08-06 07:40:40.008611 - Found INR.txt (text/plain) in CBT.V505.FILE804.PDS, moved to PDS/INR
+2023-08-06 07:40:40.019665 - Found LOADLIB.xmi (application/xmit) in CBT.V505.FILE804.PDS
+2023-08-06 07:40:40.027940   - Received RECFM=U data, stored XMIT file as CBT804/LOADLIB.xmi
+2023-08-06 07:40:40.028904 - Found OUTR.txt (text/plain) in CBT.V505.FILE804.PDS, moved to PDS/OUTR
+2023-08-06 07:40:40.030045 - Found TAPEMAP.txt (text/plain) in CBT.V505.FILE804.PDS, moved to PDS/TAPEMAP
+2023-08-06 07:40:40.031056 - Found TAPEMAP$.jcl (text/plain) in CBT.V505.FILE804.PDS, moved to PDS/TAPEMAP$
